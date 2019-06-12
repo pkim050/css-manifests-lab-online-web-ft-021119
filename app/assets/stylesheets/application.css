@@ -1,6 +1,6 @@
 /*
 *= require pages
 *= require posts
-*= bootstrap-addon
-*= hidden_styles
+*= require bootstrap-addon
+*= require hidden_styles
 */
